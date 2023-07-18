@@ -6,6 +6,7 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 .container1{
+    position: fixed;
     margin-top: 40px;
     display: flex;
     flex-direction: row;
@@ -15,6 +16,7 @@ body{
 }
 .container2{
     /* padding: 20px; */
+    position: fixed;
     font-size: 20px;
     display: flex;
     flex-wrap: wrap;
